@@ -1,6 +1,6 @@
-# Bem vindo ao meu perfil do github
+# Oi, me chamo Henrique e seja vindo ao meu perfil do github
 
-Meu nome é Henrique de Paula Rodrigues, sou estudante de engenharia elétrica no CEFET-MG e atualmente tenho focado em aprender mais sobre programação e desenvolvimento 
+Sou estudante de engenharia elétrica no CEFET-MG e atualmente tenho focado em aprender mais sobre programação e desenvolvimento 
 web.
 
 ## Sobre mim
