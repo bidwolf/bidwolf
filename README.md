@@ -43,7 +43,7 @@ O primeiro livro que li na área foi um livro de linguagem C
 O livro que mais gostei de ler de programação foi sobre javascript
 > Javascript the definitive Guide atualmente na sétima edição (eu estudei usando a quinta edição)
 
-Tenho um irmão gemêo que odeia programação
+Tenho um irmão gêmeo que odeia programação
 > Cada um com suas manias né?
 ---
 ## Github stats 🔥
