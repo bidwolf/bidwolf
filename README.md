@@ -34,7 +34,7 @@ Além disso participo do projeto de extensão [codelife](https://github.com/Code
 ---
 ## Curiosidades 
 
- Meu primeiro contato em programação foi com a linguagem pasca
+ Meu primeiro contato em programação foi com a linguagem pascal
 > Tinha 13 anos nessa época 
 
 O primeiro livro que li na área foi um livro de linguagem C
