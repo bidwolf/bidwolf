@@ -1,4 +1,4 @@
-# Oi, me chamo Henrique e seja vindo ao meu perfil do github
+# Oi, me chamo Henrique e seja vindo ao meu perfil do github 
 
 Sou estudante de engenharia elétrica no CEFET-MG e atualmente tenho focado em aprender mais sobre programação e desenvolvimento 
 web.
