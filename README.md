@@ -59,8 +59,6 @@ Tenho um irmão gêmeo que odeia programação
 ---
 ## Github stats 🔥
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bidwolf)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidwolf&theme=dracula)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidwolf&show_icons=true&count_private=true&theme=dracula)  
