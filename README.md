@@ -37,7 +37,6 @@ Além disso participo do projeto de extensão [codelife](https://github.com/Code
 ![PostgreSQL](https://img.shields.io/badge/PostgreSql-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ### O que venho aprendendo
-![Vue](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![AdonisJS](https://img.shields.io/badge/Adonis.js-20232A?style=for-the-badge&logo=adonisjs&logoColor=5A45FF)
 ![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=5A45FF)
