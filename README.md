@@ -5,7 +5,7 @@ web.
 
 ## Sobre mim
 
-Tenho 21 anos, moro na região metropolitana de Belo Horizonte e amo programar!
+Tenho 22 anos, moro na região metropolitana de Belo Horizonte e amo programar!
 Desenvolvi gosto por programação em 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira, e desde então tenho me esforçado para aprender um pouco a cada dia, pra entrar no mercado de trabalho tech e realizar esse sonho.
 
 ---
