@@ -4,7 +4,14 @@ Sou estudante de engenharia elétrica no CEFET-MG e atualmente tenho focado em a
 web.
 
 ## Sobre mim
-
+<div align="center">
+	<br>
+	<a href="https://github.com/bidwolf/bidwolf/blob/main/header.svg">
+		<img src="header.svg" width="100"alt="Click to see the source">
+	</a>
+	<h3>Henrique de Paula Rodrigues</h3>
+	<br>
+</div>
 Tenho 23 anos, moro na região metropolitana de Belo Horizonte e amo programar!
 Desenvolvi gosto por programação em 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira, e desde então tenho me esforçado para aprender um pouco a cada dia, pra entrar no mercado de trabalho tech e realizar esse sonho.
 
