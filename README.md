@@ -5,13 +5,12 @@ web.
 
 ## Sobre mim
 
-Tenho 22 anos, moro na região metropolitana de Belo Horizonte e amo programar!
+Tenho 23 anos, moro na região metropolitana de Belo Horizonte e amo programar!
 Desenvolvi gosto por programação em 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira, e desde então tenho me esforçado para aprender um pouco a cada dia, pra entrar no mercado de trabalho tech e realizar esse sonho.
 
 ---
 ## Em que trabalho atualmente
-Atualmente faço parte da [equipe de desenvolvimento do COMPET](https://github.com/DEV-COMPET) 💚 contribuindo para o desenvolvimento do [site do compet](https://github.com/DEV-COMPET/compet_site), e do [projeto de virtualização da serra da piedade](https://github.com/DEV-COMPET/realidadevirtualserra)
-
+Hoje atuo como software developer no PASI (Plano de Amparo Social Imediato), colaborando com a popularização do seguro de vida no Brasil!
 Além disso participo do projeto de extensão [codelife](https://github.com/Codelife-Compet) cujo objetivo é levar o ensino de programação gamificada para as escolas públicas do Brasil.
 
 ---
@@ -36,11 +35,6 @@ Além disso participo do projeto de extensão [codelife](https://github.com/Code
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSql-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-### O que venho aprendendo
-![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699)
-![AdonisJS](https://img.shields.io/badge/Adonis.js-20232A?style=for-the-badge&logo=adonisjs&logoColor=5A45FF)
-![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=5A45FF)
-
 ---
 ## Curiosidades 
 
@@ -53,24 +47,22 @@ O primeiro livro que li na área foi um livro de linguagem C
 O livro que mais gostei de ler de programação foi sobre javascript
 > Javascript the definitive Guide atualmente na sétima edição (eu estudei usando a quinta edição)
 
-Tenho um irmão gêmeo que odeia programação
-> Cada um com suas manias né?
+
 ---
 ## Github stats 🔥
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidwolf&theme=dracula)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidwolf&show_icons=true&count_private=true&theme=dracula)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bidwolf&theme=dracula)
+Pessoal|Profissional
+:---:|:---:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bidwolf&theme=dracula)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquedepaularodrigues&theme=dracula)
 
 ---
 ## Entre em contato comigo
 
 Você é sempre bem vindo aqui, mas caso queira entrar em contato comigo, me segue aqui ou nas redes sociais!
 
-[![instagramSVG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/henrique._.rdg/?igshid=YmMyMT)
 [![GitHub followers](https://img.shields.io/github/followers/bidwolf?color=green&label=Github&style=for-the-badge)]()
 [![linkedinSVG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/henriquedepaularodrigues/)
