@@ -28,6 +28,7 @@ Além disso participo do projeto de extensão [codelife](https://github.com/Code
 ![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### Web frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,7 +42,7 @@ Além disso participo do projeto de extensão [codelife](https://github.com/Code
 ![Apollo Server](https://img.shields.io/badge/Apollo-20232A?style=for-the-badge&logo=apollographql&logoColor=FFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSql-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
+![flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
 ---
 ## Curiosidades 
 
