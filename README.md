@@ -12,7 +12,13 @@ web.
 	<h3>Henrique de Paula Rodrigues</h3>
 	<br>
 </div>
-Tenho 23 anos, moro na região metropolitana de Belo Horizonte e amo programar!
+
+[![](https://visitcount.itsvg.in/api?id=bidwolf&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/bidwolf?color=BFDBFE&label=Github%20Followers&style=flat&labelColor=1E3A8A&logo=Github)]()
+[![linkedinSVG](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/henriquedepaularodrigues/)
+
+Tenho 24 anos, moro na região metropolitana de Belo Horizonte e amo programar!
 Desenvolvi gosto por programação em 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira, e desde então tenho me esforçado para aprender um pouco a cada dia, pra entrar no mercado de trabalho tech e realizar esse sonho.
 
 ---
@@ -67,12 +73,3 @@ Pessoal|Profissional
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bidwolf&theme=dracula)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquedepaularodrigues&theme=dracula)
 
 ---
-## Entre em contato comigo
-
-Você é sempre bem vindo aqui, mas caso queira entrar em contato comigo, me segue aqui ou nas redes sociais!
-
-[![GitHub followers](https://img.shields.io/github/followers/bidwolf?color=green&label=Github&style=for-the-badge)]()
-[![linkedinSVG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/henriquedepaularodrigues/)
-
-
