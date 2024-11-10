@@ -39,6 +39,7 @@ Além disso participo do projeto de extensão [codelife](https://github.com/Code
 ### Web frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=Angular&logoColor=red)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Next](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB)
 
