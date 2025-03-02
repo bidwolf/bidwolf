@@ -1,9 +1,3 @@
-# Me chamo Henrique e seja bem-vindo ao meu perfil do Github! 
-
-Sou estudante de engenharia elétrica no CEFET-MG e atualmente tenho focado em me especializar na área de tecnologia e desenvolvimento 
-de software escalável e impactante.
-
-## Sobre mim
 <div align="center">
 	<br>
 	<a href="https://github.com/bidwolf/bidwolf/blob/main/header.svg">
@@ -13,13 +7,18 @@ de software escalável e impactante.
 	<br>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=bidwolf&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
-[![GitHub followers](https://img.shields.io/github/followers/bidwolf?color=BFDBFE&label=Github%20Followers&style=flat&labelColor=1E3A8A&logo=Github)]()
-[![linkedinSVG](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/henriquedepaularodrigues/)
+---
 
-Tenho 24 anos, moro na região metropolitana de Belo Horizonte e amo programar!
-Desenvolvi gosto por programação em 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira, e desde então tenho me esforçado para aprender um pouco a cada dia.
+# Me chamo Henrique e seja bem-vindo ao meu perfil do Github! 
+
+Tenho 24 anos, moro na região metropolitana de Belo Horizonte e amo programar! Atualmente sou estudante de engenharia elétrica no CEFET-MG e tenho focado em me especializar na área de tecnologia e desenvolvimento de software escalável e impactante desde 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira.
+
+[![Acessar portfolio](https://img.shields.io/badge/acessar_portfolio-000000?style=for-the-badge&logo=librewolf&logoColor=00ACFF&logoSize=auto&labelColor=000000&color=00ACFF)](https://bidwolf.me)
+[![linkedinSVG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white
+)](https://www.linkedin.com/in/henriquedepaularodrigues/)
+[![GitHub followers](https://img.shields.io/github/followers/bidwolf?color=00ACFF&label=Github%20Followers&style=for-the-badge&labelColor=000000&logo=Github)]()
+
+
 
 ---
 ## Em que trabalho atualmente
