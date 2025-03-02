@@ -123,9 +123,9 @@
 <div class="contributor-container">
     <div class="contributor-inner-container">
         <div class="contributor-image-container dev">
-            		  <a href="https://github.com/bidwolf" target="_blank">
+            		  <div >
                 <img src="https://img.shields.io/github/followers/bidwolf?color=00ACFF&label=Github%20Followers&style=for-the-badge&labelColor=000000&logo=Github" alt="GitHub followers">
-              </a>
+              		</div>
         </div>
             <div class="contributor-social-icon-container">
             </div>    
