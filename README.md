@@ -1,7 +1,7 @@
-# Oi, me chamo Henrique e seja vindo ao meu perfil do github 
+# Me chamo Henrique e seja vindo ao meu perfil do Github! 
 
-Sou estudante de engenharia elétrica no CEFET-MG e atualmente tenho focado em aprender mais sobre programação e desenvolvimento 
-web.
+Sou estudante de engenharia elétrica no CEFET-MG e atualmente tenho focado em me especializar na área de tecnologia e desenvolvimento 
+de software escalável e impactante.
 
 ## Sobre mim
 <div align="center">
@@ -19,37 +19,40 @@ web.
 )](https://www.linkedin.com/in/henriquedepaularodrigues/)
 
 Tenho 24 anos, moro na região metropolitana de Belo Horizonte e amo programar!
-Desenvolvi gosto por programação em 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira, e desde então tenho me esforçado para aprender um pouco a cada dia, pra entrar no mercado de trabalho tech e realizar esse sonho.
+Desenvolvi gosto por programação em 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira, e desde então tenho me esforçado para aprender um pouco a cada dia.
 
 ---
 ## Em que trabalho atualmente
-Hoje atuo como software developer no PASI (Plano de Amparo Social Imediato), colaborando com a popularização do seguro de vida no Brasil!
+Hoje atuo como fullstack developer no grupo Zievo no desenvolvimento de softwares de gestão de recursos CRM, utilizando PHP, Laravel e ReactJS, software PABX com PHP e módulos WHMCS.
 Além disso participo do projeto de extensão [codelife](https://github.com/Codelife-Compet) cujo objetivo é levar o ensino de programação gamificada para as escolas públicas do Brasil.
 
 ---
 ## Skills
 
 ### Linguagens de programação
-
-![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=00599C)
 ![python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
+![javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)
+
+
 
 ### Web frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=Angular&logoColor=red)
+![InertiaJS](https://img.shields.io/badge/InertiaJS-20232A?style=for-the-badge&logo=laravel&logoColor=9553E9)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Next](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB)
 
 ### Backend 
-
+![Laravel](https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFF)
-![Apollo Server](https://img.shields.io/badge/Apollo-20232A?style=for-the-badge&logo=apollographql&logoColor=FFF)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
+![Fastapi](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-20232A?style=for-the-badge&logo=mariadb&logoColor=003545)
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSql-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSql-20232A?style=for-the-badge&logo=postgresql&logoColor=316192)
 ---
 ## Curiosidades 
 
@@ -69,8 +72,8 @@ O livro que mais gostei de ler de programação foi sobre javascript
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidwolf&theme=dracula)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidwolf&show_icons=true&count_private=true&theme=dracula)  
-Pessoal|Profissional
-:---:|:---:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bidwolf&theme=dracula)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquedepaularodrigues&theme=dracula)
+Pessoal|Zievo (profissional 2025 - Atual)| Seguro PASI (profissional 2023-2025)
+:---:|:---:|:---:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bidwolf&theme=dracula)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquezievo&theme=dracula)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquedepaularodrigues&theme=dracula)
 
 ---
