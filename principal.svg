@@ -1,0 +1,67 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        h1 {
+          color: red;
+          animation: mymove 2s infinite;
+        }
+
+        @keyframes mymove {
+          from {
+            color: red;
+          }
+          to {
+            color: yellow;
+          }
+        }
+
+        .container {
+          display: flex;
+          justify-content: space-between;
+          align-items: flex-start;
+        }
+
+        .text-content {
+          max-width: 50%;
+        }
+
+        .links {
+          list-style-type: none;
+          padding: 0;
+        }
+
+        .links li {
+          margin-bottom: 10px;
+        }
+      </style>
+      <div class="container">
+        <div class="text-content">
+          <p>Tenho 24 anos, moro na região metropolitana de Belo Horizonte e amo programar! Atualmente sou estudante de engenharia elétrica no CEFET-MG e tenho focado em me especializar na área de tecnologia e desenvolvimento de software escalável e impactante desde 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira.</p>
+          <ul class="links">
+            <li>
+              <a href="https://bidwolf.me" target="_blank">
+                <img src="https://img.shields.io/badge/acessar_portfolio-000000?style=for-the-badge&logo=librewolf&logoColor=00ACFF&logoSize=auto&labelColor=000000&color=00ACFF" alt="Acessar portfolio">
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/henriquedepaularodrigues/" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn">
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/bidwolf" target="_blank">
+                <img src="https://img.shields.io/github/followers/bidwolf?color=00ACFF&label=Github%20Followers&style=for-the-badge&labelColor=000000&logo=Github" alt="GitHub followers">
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <a href="https://bidwolf.me">
+            <img src="teste.gif" width="400" alt="Click to see my portfolio">
+          </a>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
