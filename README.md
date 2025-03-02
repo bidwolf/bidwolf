@@ -10,22 +10,34 @@
 ---
 
 # Me chamo Henrique e seja bem-vindo ao meu perfil do Github! 
-
-Tenho 24 anos, moro na região metropolitana de Belo Horizonte e amo programar! Atualmente sou estudante de engenharia elétrica no CEFET-MG e tenho focado em me especializar na área de tecnologia e desenvolvimento de software escalável e impactante desde 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira.
-
-[![Acessar portfolio](https://img.shields.io/badge/acessar_portfolio-000000?style=for-the-badge&logo=librewolf&logoColor=00ACFF&logoSize=auto&labelColor=000000&color=00ACFF)](https://bidwolf.me)
-[![linkedinSVG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white
-)](https://www.linkedin.com/in/henriquedepaularodrigues/)
-[![GitHub followers](https://img.shields.io/github/followers/bidwolf?color=00ACFF&label=Github%20Followers&style=for-the-badge&labelColor=000000&logo=Github)]()
-
-
+<div align="justify">
+	<div align="left">
+		<p>Tenho 24 anos, moro na região metropolitana de Belo Horizonte e amo programar! Atualmente sou estudante de engenharia elétrica no CEFET-MG e tenho focado em me especializar na área de tecnologia e desenvolvimento de software escalável e impactante desde 2018, mas foi durante a pandemia que decidi que iria fazer disso minha carreira.
+		</p>
+	</div>
+</div>
+<div align="right">
+	<br>
+	<a href="https://github.com/bidwolf/bidwolf/blob/main/header.svg">
+		<img src="teste.gif" width="200"alt="Click to see the source">
+	</a>
+</div>
+<a href="https://bidwolf.me" target="_blank">
+  			<img src="https://img.shields.io/badge/acessar_portfolio-000000?style=for-the-badge&logo=librewolf&logoColor=00ACFF&logoSize=auto&labelColor=000000&color=00ACFF" alt="Acessar portfolio">
+		</a>
+		<a href="https://www.linkedin.com/in/henriquedepaularodrigues/" target="_blank">
+  			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn">
+		</a>
+		<a href="https://github.com/bidwolf" target="_blank">
+  			<img src="https://img.shields.io/github/followers/bidwolf?color=00ACFF&label=Github%20Followers&style=for-the-badge&labelColor=000000&logo=Github" alt="GitHub followers">
+		</a>
 
 ---
+
 ## Em que trabalho atualmente
 Hoje atuo como fullstack developer no grupo Zievo no desenvolvimento de softwares de gestão de recursos CRM, utilizando PHP, Laravel e ReactJS, software PABX com PHP e módulos WHMCS.
 Além disso participo do projeto de extensão [codelife](https://github.com/Codelife-Compet) cujo objetivo é levar o ensino de programação gamificada para as escolas públicas do Brasil.
 
----
 ## Skills
 
 ### Linguagens de programação
