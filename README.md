@@ -67,9 +67,8 @@ Hoje atuo como fullstack developer no grupo Zievo no desenvolvimento de software
 O primeiro livro que li na área foi um livro de linguagem C
 > Luis Dantas (um dos melhores que existem na área)
 
-O livro que mais gostei de ler de programação foi sobre javascript
-> Javascript the definitive Guide atualmente na sétima edição (eu estudei usando a quinta edição)
-
+Absolutamente todo conhecimento que adquiri na área de tecnologia foi por conta própria
+> Leitura de livros, artigos, Documentações e vídeos de referencias da área no mundo todo inclusive aqui no Brasil
 
 ---
 ## Github stats 🔥
