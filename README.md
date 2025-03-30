@@ -31,7 +31,6 @@
 
 ## Em que trabalho atualmente
 Hoje atuo como fullstack developer no grupo Zievo no desenvolvimento de softwares de gestão de recursos CRM, utilizando PHP, Laravel e ReactJS, software PABX com PHP e módulos WHMCS.
-Além disso participo do projeto de extensão [codelife](https://github.com/Codelife-Compet) cujo objetivo é levar o ensino de programação gamificada para as escolas públicas do Brasil.
 
 ## Skills
 
